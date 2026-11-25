@@ -14,8 +14,8 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · SciPy · Scikit-learn · K
 
 | Project | Methods | Assessment grade |
 | --- | --- | --- |
-| [01 — Data Exploration](01-data-exploration/) | Data cleaning, imputation, outlier investigation, correlation analysis, chi-square testing | 93.75% |
-| [02 — Machine Learning](02-machine-learning/) | K-prototypes clustering, logistic regression, cross-validation, GridSearchCV, RFECV, ROC-AUC | 89.5% |
+| [01-Data Exploration](01-data-exploration/) | Data cleaning, imputation, outlier investigation, correlation analysis, chi-square testing | 93.75% |
+| [02-Machine Learning](02-machine-learning/) | K-prototypes clustering, logistic regression, cross-validation, GridSearchCV, RFECV, ROC-AUC | 89.5% |
 
 ## Key Findings
 
